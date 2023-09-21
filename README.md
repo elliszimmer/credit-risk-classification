@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
   The intention of this analysis is to train and evaluate a machine learning model based on loan risk. The analysis is centered around the logistic regression
